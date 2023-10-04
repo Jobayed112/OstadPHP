@@ -1,0 +1,98 @@
+cllass = class name{}
+
+properties = $name;
+
+methods = function(){};
+
+Object = $variable name =new class name();
+
+echo $name =new class name();
+
+example:
+class name{
+    publice $name,$age,$year;
+    public function name(){
+        $this->name;
+    }
+    public function age(){
+        $this->age;
+    }
+    public function year(){
+    $this->year;
+    }
+
+}
+$name=new name();
+echo $name->name;
+
+
+
+
+
+what is =  __construct(){}  auto call create new Object;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

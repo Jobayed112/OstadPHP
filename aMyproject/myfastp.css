@@ -1,0 +1,141 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    font-style: italic;
+}
+#container_left{
+    width: 350px;
+    height: 550px;
+    float: left;
+    background-color: bisque;
+    border-radius:7px;
+    margin-left: 250px;
+    border-radius: 10px;
+    font-weight: 50px;
+    padding: 15px;
+    text-align: center
+    }
+
+#container{
+    text-align: center;
+    float: left;
+   margin-left: 50px;
+    padding: 15px;
+    width: 350px;
+    height: 550px;
+    font-size: 76%;
+    background-color: silver;
+    color:black;
+    border-radius: 10px;
+    font-weight: 50px;
+
+}
+#header{
+    font-size: 1.3rem;
+    font-style: italic ;
+    background-color: darkmagenta;
+    border-radius: 12px;
+    line-height: 10px;
+    padding: 2px;
+    margin-bottom: 10px;
+
+}
+#wrapper_row1{
+    background-color: palevioletred;
+    font-size: xx-large;
+    height: 450px;
+    border-radius: 15px;
+    padding: 15px;
+    line-height: 1.4;
+}
+#wrapper_row{
+    background-color: palevioletred;
+    font-size: xx-large;
+    height: 450px;
+    border-radius: 15px;
+    padding: 15px;
+    line-height: 1.4;
+
+}
+form label{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: darkmagenta;
+    margin: 20px 0 20px;
+
+}
+input{
+    width:98%;
+    font-size: large;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 40px;
+    background-color: gray;
+    color: black;
+    margin: 20px 0 20px;
+}
+input:hover{
+    background-color:#f2efef;
+    cursor: pointer;
+}
+input::-webkit-input-placeholder{
+    color: black;
+    font-size: 20px;
+    font-weight: 30px;
+    padding: 0 0 0 8px;
+    text-align: center;
+}
+#operation{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-color: rebeccapurple;
+    text-align: center;
+    border-radius: 100px;
+    margin: 0 25px 0 25px;
+    padding: 8px;
+
+}
+select{
+    width:80px;
+    font-size: 18px;
+    border: none;
+    background-clip:padding-box; /* Fix for IE */
+    background-origin:content-box;/* Fix for Opera and Chrome*/
+    background-attachment: local;
+    background-color:rebeccapurple;
+}
+option{
+    background-color: rgb(88, 69, 212);
+    font-size: 22px;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+}
+#button{
+    background-color: darkorchid;
+    margin: 15px;
+    padding: 6px;
+    border-radius: 40px;
+
+}
+button{
+    background-color: darkorchid;
+    border: none;
+    font-size: 30px;
+    font-weight: 50px;
+
+}
+#Result{
+    background-color: pink;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 100%;
+    height: 20px;
+    float: left;
+    padding: 18px 0;
+    text-align:center;
+}
